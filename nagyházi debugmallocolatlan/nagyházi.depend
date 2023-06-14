@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1606396508 source:d:\programozás\progi_nagyházi\nagyházi\main.c
+	"konyvtar.h"
+
+1604854022 source:d:\programozás\progi_nagyházi\nagyházi\test.c
+	"test2.h"
+
+1604853818 d:\programozás\progi_nagyházi\nagyházi\test2.h
+
+1607686616 source:d:\programozás\progi_nagyházi\nagyházi\uj_bejegyzes.c
+	"konyvtar.h"
+
+1607695724 d:\programozás\progi_nagyházi\nagyházi\konyvtar.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	<stdbool.h>
+	"debugmalloc.h"
+
+1605357994 d:\programozás\progi_nagyházi\nagyházi\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1607686486 source:d:\programozás\progi_nagyházi\nagyházi\fomenupontok.c
+	"konyvtar.h"
+
+1607622442 source:d:\programozás\progi_nagyházi\nagyházi\bejegyzesek_kezelese.c
+	"konyvtar.h"
+
+1607378496 source:d:\programozás\progi_nagyházi\nagyházi\datum_parsolasa.c
+	"konyvtar.h"
+
+1607687456 source:d:\programozás\progi_nagyházi\nagyházi\bejegyzesek_torlese_szerkesztese.c
+	"konyvtar.h"
+

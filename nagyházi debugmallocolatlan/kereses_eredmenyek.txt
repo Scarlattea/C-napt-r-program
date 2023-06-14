@@ -1,0 +1,13 @@
+cim: test3*
+hely: sd*
+megjegyzes: fsdf*
+ido: Tue Mar 12 00:00:00 2003*
+cim: test2*
+hely: sfdgfdjhlo*
+megjegyzes: hgkj‚*
+ido: Thu Dec 10 19:43:18 2020
+*
+cim: test _bemutato*hely: ebedlo*
+megjegyzes: szuperleszremelem*
+ido: Fri Dec 11 13:31:22 2020
+*

@@ -1,0 +1,58 @@
+Félkész nagyházi dokumentáció
+Készítette: Székely Zsófia
+Neptun: L7GV2P
+
+A program működése eddig:
+
+Megnyitás után köszönti a felhasználót (Hello!), majd menüpontok közül ki lehet választani, hogy mit szeretnénk
+a továbbiakban csinálni. 3 menüpont van. A menüpontok betűjelének beírásával tudjuk őket kiválasztani, az hogy kis
+nagybetűt nyomunk, az nem számít.
+
+A) Uj bejegyzes
+B) Meglevo bejegyzesek kezelese
+C) Kilepes
+
+Ezek közül egyelőre csak az "Uj bejegyzes" és a "Kilepes" aktív, B-t nyomva hibauzenetet kapunk egyelőre, hogy 
+nem menupontot választottunk. Egyéb helytelen/nem egy betűs válaszokra is hibaüzenetet fogunk kapni. A program ilyenkor
+visszatér beolvasás módba és újra lehet próbálkozni helyes menüpontot beírni.
+
+A)-t nyomva megadhatjuk egy bejegyzes adatait, ezek mindegyike tartalmazhat tetszőleges számú betűt és szóközt is
+ám a beolvasás enterre érzékeny, így csak egy soros címet/helyet/megjegyzést írhatunk. 
+
+Az adatok megadása után dönthetünk úgy, hogy mentéssel lépünk vissza a főmenübe, vagy mentés nélkül.
+Ha mentés nélkül akarunk visszatérni a főmenübe, akkor le kell okéznunk hogy tényleg mentés nélkül akarunk távozni, így
+nem lehet csak úgy mentés nélkül kilépni, ha közben meggondoltuk volna magunkat. 
+Ezek a menüpontok is a fentebb leírt módon működnek és kezelik a hibásan beérkező adatokat (menüpontokat).
+
+Az így beolvasott bejegyzések a "bejegyzesek.txt" fájlban kerülnek mentésre, a következő formátumban:
+
+{
+BEJEGYZES
+}
+
+{
+BEJEGYZES
+}
+
+{
+BEJEGYZES
+}
+
+A bejegzések pedig egyesével a következő formátumúak:
+{
+cim:
+hely:
+megjegyzes:
+ido:
+}
+
+Az ido azért nem kerül bekérésre, mert azt a program automatikusan generálja mentéskor.
+
+A mentést választva még egyszer visszakapjuk a bejegyzésünket a konzolra kiírva, az pontos idővel kiegészítve. (timestamp)
+
+A bejegyzés mentése után a program visszatér a főmenübe, ahol újabb bejegyzést hozhatunk létre vagy 
+megnyomhatjuk a C) menüpontot is, hogy kilépünk, ekkor "Viszlát később!" üzenetet kapunk és a már megszokott módon a program
+végére érünk, bármilyen gomb megnyomására bezárul a konzol is. 
+
+A programban jelenleg nincs memóriaszivárgás, ezt a debugmalloc is jelzi.
+

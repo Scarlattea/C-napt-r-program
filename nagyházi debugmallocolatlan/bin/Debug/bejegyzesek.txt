@@ -1,0 +1,9 @@
+cim: sdf*
+hely: sdf*
+megjegyzes: sdf*
+ido: Fri Dec 11 18:01:38 2020
+*cim: sz‚p napot*
+hely: budapest*
+megjegyzes: dolgozni megyek*
+ido: Wed Jun 14 12:27:58 2023
+*

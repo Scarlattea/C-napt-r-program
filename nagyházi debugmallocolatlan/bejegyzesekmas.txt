@@ -1,0 +1,47 @@
+cim: pince*
+hely: helyehulya*
+megjegyzes: elegemvan*
+ido: Mon Jan 12 00:00:00 2000*cim: sdf*
+hely: sdf*
+megjegyzes: sdf*
+ido: Mon Feb 12 00:00:00 2003*cim: test3*
+hely: sd*
+megjegyzes: fsdf*
+ido: Tue Mar 12 00:00:00 2003*cim: sdf*
+hely: sdf*
+megjegyzes: fdghfgjjhkg*
+ido: Tue Apr 21 00:00:00 2003*cim: sdf*
+hely: dfghg*
+megjegyzes: dfgsdfhhgj*
+ido: Sat Feb 12 00:00:00 2005*cim: sdfdsfhj*
+hely: dfghgj*
+megjegyzes: ghgdjkh*
+ido: Thu Aug 24 00:00:00 2012*cim: sdf*
+hely: sdf*
+megjegyzes: sdf*
+ido: Mon Aug 23 00:00:00 2013*cim: asd*hely: heylhelyhely*
+megjegyzes: asd*
+ido: Thu Dec 10 18:24:10 2020
+*cim: sdfrdgff*
+hely: sdfsf*
+megjegyzes: gsdfsdf*
+ido: Thu Dec 10 19:43:01 2020
+*cim: test2*
+hely: sfdgfdjhlo*
+megjegyzes: hgkj‚*
+ido: Thu Dec 10 19:43:18 2020
+*cim: bejegyzescim*
+hely: esemenyhely*
+megjegyzes: megjegyzeshaha*
+ido: Fri Dec 11 12:15:13 2020
+*cim: sdf*
+hely: dfghfjhk*
+megjegyzes: hfdgjjk*
+ido: Fri Dec 11 12:38:10 2020
+*cim: bejegyzescim*
+hely: hely*
+megjegyzes: megjegyzes*
+ido: Fri Dec 11 13:23:47 2020
+*cim: dfg*
+hely: dfg*megjegyzes: megjegyzeshurra*
+ido: Fri Apr 30 00:00:00 2030*

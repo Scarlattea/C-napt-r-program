@@ -1,0 +1,65 @@
+cim: dfg*
+hely: ghjhjgk*
+megjegyzes: dsgsdf*
+ido: Mon Jan 21 00:00:00 2033
+*
+
+cim: dgfh*
+hely: fdg*
+megjegyzes: dsdfg*
+ido: Sat Mar 21 00:00:00 2003
+*
+
+cim: lacika dolga*
+hely: gaty mban*
+megjegyzes: Very big*
+ido: Sun Nov 29 22:05:28 2020
+*
+
+cim: cim*
+hely: hely*
+megjegyzes: megj*
+ido: Mon Aug 31 00:00:00 0
+*
+
+cim: asd*
+hely: dsa*
+megjegyzes: fgh*
+ido: Sun Nov 29 22:17:01 2020
+*
+
+cim: asd*
+hely: asdasd*
+megjegyzes: asdasd*
+ido: Sun Nov 29 22:18:18 2020
+*
+
+cim: l‚sdflnkgkg‚mfd*
+hely: ‚flsgl‚ kgf*
+megjegyzes: fsg‚lo k*
+ido: Sun Nov 29 22:19:01 2020
+*
+
+cim: fgh*
+hely: fgh*
+megjegyzes: fgh*
+ido: Thu Dec 03 17:27:55 2020
+*
+
+cim: fdajasdk*
+hely: dhgjghj*
+megjegyzes: hjfgh*
+ido: Tue Mar 01 00:00:00 3210*
+
+cim: dfg*
+hely: fgdh*
+megjegyzes: fdhgh*
+ido: Thu Dec 03 17:34:35 2020
+*
+
+cim: dfhgj*
+hely: dfgh*
+megjegyzes: fdgh*
+ido: Thu Dec 03 17:43:10 2020
+*
+

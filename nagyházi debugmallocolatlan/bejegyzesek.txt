@@ -1,0 +1,12 @@
+cim: asd*
+hely: asd*
+megjegyzes: asd*
+ido: Mon Jan 12 00:00:00 2001*cim: sdf*
+hely: sdf*
+megjegyzes: sdf*
+ido: Fri Dec 11 13:35:28 2020
+*cim: sdf*
+hely: sdf*
+megjegyzes: sdf*
+ido: Fri Dec 11 13:47:14 2020
+*
